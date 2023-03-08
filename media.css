@@ -67,16 +67,16 @@
         font-size: 16px !important;
     }
     .contact-btn-2:hover::after{
-        width:200% !important;
+        width:200px !important;
     }
     .about-us-btn-2:hover:after{
-        width:200% !important;
+        width:200px !important;
     }
     .service-btn-2:hover::after{
-        width:220% !important;
+        width:200px !important;
     }
     .port-btn-2:hover::after{
-        width:175% !important;
+        width:200px !important;
     }
     .service-btn-2{
         margin-top: 50px !important;
